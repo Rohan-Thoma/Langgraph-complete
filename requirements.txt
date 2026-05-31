@@ -2,3 +2,6 @@ langgraph
 langchain
 langchain-openai
 dotenv
+streamlit
+langchain_community
+ddgs
