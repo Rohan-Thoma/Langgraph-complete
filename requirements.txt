@@ -5,3 +5,5 @@ dotenv
 streamlit
 langchain_community
 ddgs
+pypdf
+faiss-cpu
